@@ -1,2 +1,2 @@
 # USACO-Python-Practice
-My USACO solutions with Python to problems in USACO competitions and the USACO Training.
+My Python solutions to problems from USACO competitions and the USACO Training.
