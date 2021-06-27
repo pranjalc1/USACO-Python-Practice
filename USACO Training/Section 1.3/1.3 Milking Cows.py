@@ -4,7 +4,7 @@ LANG: PYTHON3
 TASK: milk2
 """
 
-filein = open('milk2.in','r')
+filein = open('milk2.in','r' )
 fileout = open('milk2.out','w')
 
 text = filein.readlines()
